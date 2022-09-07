@@ -14,3 +14,7 @@ New York Skyports Seaplane Base
    1. exit from the airport
    2. Book a cb from airport to museum of modern art
    3. if not able to book a cab book a guide to take a visit to museum
+- other locations around the museum
+- paris theatre
+- Onassis Cultural Center
+- st thomas church
