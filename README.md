@@ -42,8 +42,7 @@ New York Skyports Seaplane Base
   # code fencing
   >Three stripes should be such an easy thing to draw. Here’s a bunch of different ways to do it on the web. That said, SVG is definitely the nicest way to handle it. A hamburger menu is so simple that we can draw it by hand in SVG. quick link to to the source<https://css-tricks.com/snippets/svg/svg-hamburger-menu/>
 ...
-
- <svg viewBox="0 0 100 80" width="40" height="40">
+<svg viewBox="0 0 100 80" width="40" height="40">
   <rect width="100" height="20"></rect>
   <rect y="30" width="100" height="20"></rect>
   <rect y="60" width="100" height="20"></rect>
