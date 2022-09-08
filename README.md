@@ -20,3 +20,12 @@ New York Skyports Seaplane Base
 - st thomas church
 
 [link to about me](AboutMe.md)
+
+***
+# Cities to visit
+| name of the city | important location | amount of time to spend |
+|:----------------:|:------------------:|:-----------------------:|
+| st.louis         | forest park        |  5                      |
+| kansas           | kansas city museum |  4                      |
+| Springfield      | military museum    |  3                      |
+| jefferson        | old state capital  |  3                      |
