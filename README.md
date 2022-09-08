@@ -32,8 +32,8 @@ New York Skyports Seaplane Base
 
 ***
 # Favourite quotes
-  > “Be yourself; everyone else is already taken.”
-  > Author: _Oscar Wilde
+  > “Be yourself; everyone else is already taken.”<br>
+  > Author: _Oscar wilde
 
   > "The purpose of our lives is to be happy."  
   > Author: _Dalai Lama
