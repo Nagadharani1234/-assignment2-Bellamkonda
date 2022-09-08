@@ -29,3 +29,12 @@ New York Skyports Seaplane Base
 | kansas           | kansas city museum |  4                      |
 | Springfield      | military museum    |  3                      |
 | jefferson        | old state capital  |  3                      |
+
+***
+# Favourite quotes
+  > “Be yourself; everyone else is already taken.”
+  > Author: _Oscar Wilde
+
+  > "The purpose of our lives is to be happy."  
+  > Author: _Dalai Lama
+  
